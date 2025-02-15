@@ -1,2 +1,2 @@
 # myrepository
-Meu primeiro repositório teste
+(portuguese) Meu primeiro repositório teste
